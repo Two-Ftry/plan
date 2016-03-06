@@ -7,6 +7,6 @@ public class HelloGit {
 		System.out.println("nice to here!!!");
 	}
 	public void fuckyou(){
-		System.out.println("may be you modify too!!! ");
+		System.out.println("may be you modify too222!!! ");
 	}
 }
