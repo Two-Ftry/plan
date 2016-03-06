@@ -9,4 +9,7 @@ public class HelloGit {
 	public void fuckyou(){
 		System.out.println("may be you modify too222!!! ");
 	}
+	public void fuckyou2(){
+		System.out.println("may be you modify too222!!! ");
+	}
 }
