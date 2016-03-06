@@ -12,4 +12,5 @@ public class HelloGit {
 	public void fuckyou2(){
 		System.out.println("may be you modify too222!!!gai yi ge bug");
 	}
+	/*-------bug fixed---------*/
 }
