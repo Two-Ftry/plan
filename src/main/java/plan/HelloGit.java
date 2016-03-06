@@ -10,6 +10,6 @@ public class HelloGit {
 		System.out.println("may be you modify too222!!! ");
 	}
 	public void fuckyou2(){
-		System.out.println("may be you modify too222!!! ");
+		System.out.println("may be you modify too222!!!gai yi ge bug");
 	}
 }
